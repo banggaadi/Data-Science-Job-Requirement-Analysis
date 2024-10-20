@@ -1,0 +1,20 @@
+English:
+
+Computer Science
+Statistics or Applied Mathematics
+Data Science
+Engineering (e.g., Electrical Engineering, Mechanical Engineering, Industrial Engineering)
+Information Technology or Information Systems
+Economics or Finance
+Physics or Natural Sciences (e.g., Biology, Chemistry)
+Business Analytics or Management Information Systems (MIS)
+Indonesian:
+
+Ilmu Komputer
+Statistika atau Matematika Terapan
+Ilmu Data
+Teknik (misalnya Teknik Elektro, Teknik Mesin, Teknik Industri)
+Teknologi Informasi atau Sistem Informasi
+Ekonomi atau Keuangan
+Fisika atau Ilmu Alam (misalnya Biologi, Kimia)
+Analitik Bisnis atau Sistem Informasi Manajemen (SIM)

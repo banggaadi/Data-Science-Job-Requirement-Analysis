@@ -1,0 +1,59 @@
+skill,category,subcategory,frequency,aliases,weight
+python,Programming Languages,Core,47,"python framework,python script,python programming",10
+sql,Programming Languages,Core,26,"mysql,postgresql,sql server,sql language",9
+aws,Cloud Platforms,Major Cloud Providers,18,"amazon aws,aws services,amazon web services",8
+excel,Office & Productivity,Spreadsheets,15,"microsoft excel,ms excel,ms. excel",6
+r,Programming Languages,Core,13,"r programming,r language",7
+hadoop,Data Processing,Big Data,13,"apache hadoop,hadoop ecosystem",7
+spark,Data Processing,Big Data,12,"apache spark,pyspark",7
+java,Programming Languages,Core,11,"java programming,core java",6
+azure,Cloud Platforms,Major Cloud Providers,9,"microsoft azure,ms azure",7
+tensorflow,Machine Learning,Frameworks,8,"tf,tensorflow framework",8
+spss,Analytics,Statistical Tools,8,"ibm spss,spss statistics",5
+etl,Data Processing,Data Integration,8,"etl development,etl processes",7
+tableau,Business Intelligence,Visualization,7,"tableau bi,tableau studio",7
+pytorch,Machine Learning,Frameworks,7,"torch,pytorch framework",8
+gcp,Cloud Platforms,Major Cloud Providers,7,"google cloud,google cloud platform",7
+mysql,Databases,SQL,5,"mysql database",6
+scikit_learn,Machine Learning,Frameworks,5,"sklearn,ml,machine learning library",8
+bigquery,Databases,Cloud Data Warehouse,4,"google bigquery",6
+docker,Infrastructure,Containerization,4,"docker containers",6
+looker,Business Intelligence,Visualization,4,"looker bi",6
+kubernetes,Infrastructure,Orchestration,3,"k8s,kube",6
+neural_networks,Machine Learning,Deep Learning,2,"neural,deep learning,ann,dnn",8
+nosql,Databases,NoSQL,2,"mongodb,documentdb",5
+git,Infrastructure,Version Control,2,"github,version control",6
+scala,Programming Languages,Core,2,"scala programming",5
+c++,Programming Languages,Core,2,"cpp,c plus plus",5
+postgresql,Databases,SQL,2,"postgres,psql",5
+keras,Machine Learning,Frameworks,2,"keras framework",6
+nlp,Machine Learning,Specialization,2,"natural language processing,nltk",7
+snowflake,Databases,Cloud Data Warehouse,2,"snowflake database",6
+unix,Infrastructure,Operating Systems,2,"linux,unix/linux",5
+redshift,Databases,Cloud Data Warehouse,2,"aws redshift,amazon redshift",6
+matplotlib,Data Science,Visualization,2,"matplotlib framework,mpl",6
+numpy,Data Science,Scientific Computing,2,"numpy library",6
+model_deployment,MLOps,Deployment,1,"model serving,model production,model industrialization",8
+jupyter,Development Tools,IDE,1,"jupyter notebook,jupyter lab",7
+kafka,Data Processing,Streaming,1,"apache kafka,event streaming",6
+databricks,Data Processing,Unified Analytics,1,"databricks platform",7
+rest_api,Web Development,APIs,1,"restful,api development,apis",6
+protobuf,Web Development,APIs,1,"protocol buffers",5
+node_js,Web Development,Runtime,1,"nodejs,javascript runtime",4
+olap,Business Intelligence,Data Analysis,1,"online analytical processing",6
+impala,Data Processing,Big Data Query,1,"apache impala",5
+hive,Data Processing,Data Warehouse,1,"apache hive",6
+kubeflow,MLOps,ML Pipeline,1,"ml pipeline,kubeflow pipeline",7
+dvc,MLOps,Version Control,1,"data version control",6
+argo,MLOps,Workflow,1,"argo workflows,k8s workflows",6
+pandas,Data Science,Data Manipulation,1,"pandas library,pd",7
+opencv,Machine Learning,Computer Vision,1,"cv2,computer vision",6
+mongodb,Databases,NoSQL,1,"mongo",5
+vba,Programming Languages,Scripting,1,"excel vba",4
+matlab,Scientific Computing,Analytics,1,"matlab programming",4
+golang,Programming Languages,Core,1,"go programming",5
+linux,Infrastructure,Operating Systems,1,"linux os",5
+agile,Project Management,Methodology,1,"agile development",4
+dbt,Data Processing,Data Integration,1,"data build tool",5
+llm,Machine Learning,Specialization,1,"large language models",7
+eda,Data Science,Analysis,1,"exploratory data analysis,data exploration",7
