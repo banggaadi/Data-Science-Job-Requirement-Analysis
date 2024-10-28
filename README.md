@@ -18,8 +18,11 @@ I collected LinkedIn data from data scientists currently employed in the field, 
 The scoring system uses a 100-point scale, with the following weight distribution:
 
 Skills: 55%
+
 Experience: 35%
+
 Education: 10%
+
 This weight distribution reflects the importance of technical skills and real-world experience in data science. While education is valuable, particularly in statistics, data scientists often build their expertise through hands-on experience and practical skill acquisition.
 
 ## Results
