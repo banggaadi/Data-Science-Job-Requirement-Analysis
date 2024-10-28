@@ -1,3 +1,4 @@
+This project is the realization of https://github.com/banggaadi/Resume-Clustering-with-NER project
 # Data Science Job Requirement Analysis
 This project aims to analyze the job requirements for data scientist roles by examining job postings from an online job portal (JobStreet.com). Through this analysis, I sought to identify the skills, experience, and qualifications most frequently required for data science roles. Additionally, I developed a scoring system to evaluate LinkedIn profiles of data scientists, measuring how well they meet these industry requirements.
 
