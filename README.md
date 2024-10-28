@@ -7,8 +7,10 @@ I used BeautifulSoup to scrape job posting data from JobStreet.com, focusing on 
 
 ### Skills and Experience Extraction
 
-### Skills Extraction: To identify specific skills required for these roles, I trained a Named Entity Recognition (NER) model using a dataset from Mendeley Data. This model was used to extract technical skills from the job descriptions.
-### Experience Extraction: I used regular expressions (regex) to identify and extract minimum required experience for each position.
+#### Skills Extraction: 
+To identify specific skills required for these roles, I trained a Named Entity Recognition (NER) model using a dataset from Mendeley Data. This model was used to extract technical skills from the job descriptions.
+#### Experience Extraction: 
+I used regular expressions (regex) to identify and extract minimum required experience for each position.
 LinkedIn Profile Scoring
 I collected LinkedIn data from data scientists currently employed in the field, extracting their skills, experience, and education level. Based on these factors, I created a scoring system to assess how well each profile aligns with industry requirements.
 
